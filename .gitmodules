@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = ssh://git@ssh.github.com:443/dunoix/dunoix.github.io.git
